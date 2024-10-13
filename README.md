@@ -8,6 +8,9 @@ fork from [XiaoYuanKouSuan_Auto](https://github.com/ChaosJulien/XiaoYuanKouSuan_
 - python 3.10
 
 ```bash
+conda create -n python310 python=3.10
+
+conda activate python310
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python numpy pyautogui pytesseract keyboard
 ```
 
